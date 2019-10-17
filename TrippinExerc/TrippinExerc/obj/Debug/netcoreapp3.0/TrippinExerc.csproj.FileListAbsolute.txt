@@ -1,0 +1,12 @@
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\users.json
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\TrippinExerc.exe
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\TrippinExerc.deps.json
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\TrippinExerc.runtimeconfig.json
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\TrippinExerc.runtimeconfig.dev.json
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\TrippinExerc.dll
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\bin\Debug\netcoreapp3.0\TrippinExerc.pdb
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\obj\Debug\netcoreapp3.0\TrippinExerc.csprojAssemblyReference.cache
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\obj\Debug\netcoreapp3.0\TrippinExerc.AssemblyInfoInputs.cache
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\obj\Debug\netcoreapp3.0\TrippinExerc.AssemblyInfo.cs
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\obj\Debug\netcoreapp3.0\TrippinExerc.dll
+D:\HTL_Perg\5BHIF\MC\TrippinExerc\TrippinExerc\obj\Debug\netcoreapp3.0\TrippinExerc.pdb
